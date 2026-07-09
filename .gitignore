@@ -1,41 +1,57 @@
-# Compiled Lua sources
-luac.out
+# SwagBot Hub public repo ignore rules
 
-# luarocks build files
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Codex / local workspace files
+.agents/
+.codex/
+
+# Private readable source files
+/SwagBotHub.lua
+/SwagBotHub-*.lua
+/*source*.lua
+/src/
+/private/
+
+# Keep the public obfuscated distribution file
+!/dist/
+!/dist/SwagBotHub.lua
+
+# Private backend / tooling files
+/swagbot-key-worker.js
+/prometheus-*.config.lua
+
+# Local SwagBot configs and saved keys
+/SwagBotHubConfigs/
+/RoxityConfigs/
+/chatbot_configs/
+*.key
+*.token
+.env
+.env.*
+
+# Lua / build artifacts
+luac.out
 *.src.rock
 *.zip
 *.tar.gz
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+# Roblox files
+*.rbxm
+*.rbxl
+*.rbxmx
+sourcemap.json
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
+# Binaries
+*.exe
 *.dll
 *.so
-*.so.*
 *.dylib
-
-# Executables
-*.exe
 *.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+*.obj
+*.o
