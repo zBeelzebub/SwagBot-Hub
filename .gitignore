@@ -22,9 +22,14 @@ desktop.ini
 !/dist/
 !/dist/SwagBotHub.lua
 
-# Private backend / tooling files
-/swagbot-key-worker.js
+# Private obfuscation outputs / tooling
+/*-obfuscated.lua
+/*-strong.lua
+/luraph-*.lua
 /prometheus-*.config.lua
+
+# Private backend files
+/swagbot-key-worker.js
 
 # Local SwagBot configs and saved keys
 /SwagBotHubConfigs/
