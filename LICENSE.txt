@@ -1,0 +1,76 @@
+# SwagBot Hub Proprietary License
+
+Copyright (c) 2026 SwagBot Development. All rights reserved.
+
+SwagBot Hub is proprietary software. It is not open-source software, even if it is distributed through a public repository.
+
+## 1. License Grant
+
+SwagBot Development grants you a limited, non-exclusive, non-transferable, revocable license to use the official public release of SwagBot Hub for personal end-user use only.
+
+You may use SwagBot Hub only through official distribution methods approved by SwagBot Development, including the official GitHub repository, official loadstring, and official Discord announcements.
+
+This license does not grant ownership of SwagBot Hub, its source code, branding, UI design, key system, backend services, or related assets.
+
+## 2. Restrictions
+
+You may not:
+
+- Copy, redistribute, mirror, rehost, sublicense, rent, lease, sell, or resell SwagBot Hub or any portion of it.
+- Modify, adapt, translate, patch, tamper with, or create derivative works based on SwagBot Hub.
+- Reverse-engineer, deobfuscate, decompile, disassemble, dump, unpack, or attempt to derive the source code or internal logic.
+- Remove, alter, or obscure copyright notices, license notices, branding, Discord links, or ownership information.
+- Bypass, disable, exploit, automate, or interfere with the key verification system.
+- Share, sell, trade, or transfer keys.
+- Use SwagBot Hub for malicious, illegal, abusive, or unauthorized activity.
+- Claim SwagBot Hub as your own work.
+
+Gameplay videos, streams, reviews, and tutorials are allowed as long as they do not redistribute, sell, leak, or provide modified copies of the software.
+
+## 3. Key System
+
+SwagBot Hub may require a valid key to use. Keys are provided free of charge but may require completing third-party actions, advertisements, or verification steps.
+
+Keys may expire, be rate-limited, or be revoked at any time for abuse, bypass attempts, redistribution, suspicious activity, or violation of this license.
+
+SwagBot Development may change the key system, verification method, provider, expiration period, or distribution method at any time.
+
+## 4. Ownership and Branding
+
+SwagBot Hub, including its name, branding, interface design, code, obfuscated distribution files, backend logic, and related assets, is owned by SwagBot Development.
+
+No rights are granted to use the SwagBot Hub name, logo, branding, Discord community, or related identity except as necessary to refer to the official software.
+
+## 5. Updates and Access
+
+SwagBot Development may update, modify, disable, discontinue, or restrict access to SwagBot Hub at any time, with or without notice.
+
+Continued use of SwagBot Hub after updates means you accept the updated software and license terms.
+
+## 6. Third-Party Services
+
+SwagBot Hub may interact with third-party services, including Roblox, Work.ink, AI providers, hosting providers, and executor environments.
+
+SwagBot Development is not responsible for third-party service outages, rule changes, account actions, API costs, advertisements, or external content.
+
+## 7. No Warranty
+
+SWAGBOT HUB IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AVAILABILITY, SECURITY, OR ERROR-FREE OPERATION.
+
+## 8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, SWAGBOT DEVELOPMENT SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES, LOSSES, COSTS, ACCOUNT ACTIONS, DATA LOSS, LOST PROFITS, SERVICE INTERRUPTIONS, OR OTHER LIABILITY ARISING FROM OR RELATED TO SWAGBOT HUB, ITS KEY SYSTEM, THIRD-PARTY SERVICES, OR YOUR USE OF THE SOFTWARE.
+
+## 9. Termination
+
+This license terminates automatically if you violate any term of this license.
+
+Upon termination, you must stop using SwagBot Hub and delete all copies in your possession.
+
+## 10. Reservation of Rights
+
+All rights not expressly granted in this license are reserved by SwagBot Development.
+
+---
+
+Copyright (c) 2026 SwagBot Development. All rights reserved.
